@@ -10,6 +10,9 @@ I'm a B.Sc. Software Engineering student at the **Technion - Israel Institute of
 * 
 ## 💻 Highlighted Projects
 
+* [**CONSENSUS Quant Trading**](https://github.com/OmerSheinbox/CONSENSUS)
+  A quantitative trading and algorithmic backtesting framework, including feature engineering and various baseline strategies for systematic market analysis.
+
 * [**Bi-Directional OCR Model**](https://github.com/ksang123/nebo_ocr)
   A state-of-the-art Optical Character Recognition model for Hebrew and English text, achieving 83% accuracy on in-distribution samples. Developed as part of an academic research project under Prof. Avi Mendelson.
 
